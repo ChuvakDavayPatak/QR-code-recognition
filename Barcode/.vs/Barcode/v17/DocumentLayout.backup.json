@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\Barcode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07011312-1447-4C38-B340-F27A09E1B788}|Barcode\\Barcode.pyproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\Barcode\\Barcode\\Barcode.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07011312-1447-4C38-B340-F27A09E1B788}|Barcode\\Barcode.pyproj|solutionrelative:Barcode\\Barcode.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07011312-1447-4C38-B340-F27A09E1B788}|Barcode\\Barcode.pyproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\Barcode\\Barcode\\BarcodeProcessor.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07011312-1447-4C38-B340-F27A09E1B788}|Barcode\\Barcode.pyproj|solutionrelative:Barcode\\BarcodeProcessor.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07011312-1447-4C38-B340-F27A09E1B788}|Barcode\\Barcode.pyproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\Barcode\\Barcode\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07011312-1447-4C38-B340-F27A09E1B788}|Barcode\\Barcode.pyproj|solutionrelative:Barcode\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07011312-1447-4C38-B340-F27A09E1B788}|Barcode\\Barcode.pyproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\Barcode\\Barcode\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{07011312-1447-4C38-B340-F27A09E1B788}|Barcode\\Barcode.pyproj|solutionrelative:Barcode\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\Barcode\\Barcode\\README.md",
+              "RelativeDocumentMoniker": "Barcode\\README.md",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\Barcode\\Barcode\\README.md",
+              "RelativeToolTip": "Barcode\\README.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-10T19:14:29.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\Barcode\\Barcode\\requirements.txt",
+              "RelativeDocumentMoniker": "Barcode\\requirements.txt",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\Barcode\\Barcode\\requirements.txt",
+              "RelativeToolTip": "Barcode\\requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-01T12:18:57.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarcodeProcessor.py",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\Barcode\\Barcode\\BarcodeProcessor.py",
+              "RelativeDocumentMoniker": "Barcode\\BarcodeProcessor.py",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\Barcode\\Barcode\\BarcodeProcessor.py",
+              "RelativeToolTip": "Barcode\\BarcodeProcessor.py",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAiwCcBAAANAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARTSURBVDhPbVRNT1xlFH7u18ydb5iBYQIihGlpk0EqjSGQCiZdumgTky7qyg07Nja6YOufELGJaYwbjbgRMVgjQpVClbRQYCDTKR/DVMoAMwPMzP32nFtIjHqSk3Pvfd/zvM8553mvMDk56QiCwA5RFF1nkyQJ//x2/uw4Dmzbzp6cnNwdGhq6u729XXAT2GhRmJqacgKBgBMKhRAOh\u002BH3\u002B901Bvi353I5eDwe3lOj5/zq6urnY2Nj387Pz2fcJDI6VEQwGER9fb3rDEgM3EVmyev8ToeiubkZ8Xgc0WhUbW9vbxsYGLidSCQuupvPTPy/0mq1GgzDgGVZbomGaWP7oIK1PQ0Ps0f4dSWPld2ydGxK3f3XBt/p7e3tPMODzCCcrGmaG30\u002Bn1sWu9frhSzLEGQH3z/awVJ2D89f7OO4XEZIMjGYasXNW7dvBHye3YWFhQ0GdBlyOdxDLpffI5GI6wyuKAoMB5h6vIWrHTG8fbEBMCo4OS7hl/nHyP1VaCOc1xmMTZibm3Mo0amrqwO7qqooFArcJ5clt8CwbKR3i4iHVWR39/Hj3DJ\u002BW1yBZGn4\u002BIOb9uXW2NbGxsafhLchMyqz4tI4cs8Y6Nl\u002BBc9e7iN/eAzBMiHYhutHxZJ7oEhgcCxOF1sbK22toVIcyoU3ZZ7g\u002BTDYOLJ8JtO7uL\u002BUQzZPMjOqEKlM0aTIbtUgElg0EoTqobxaWsTReABK9wWRJ8kDqVarbmSG3Lfl7QNs7R0SgAZVMBH1S2gMKmgIe8l9aIrV4a1UBxojJDHjkED3gYP7cBnyNHkoHBmQTa9psLQaIirQ1RLHrcEUElHao0h8I6gUao1QgU\u002BbBkoPKaECYkTsiSHr7vT01GV4rj0PsVKgozXqw3vXkuhsSiPh\u002Bw4N4j00CF\u002BgwRxDuPIZlPJPQHWLWOqASXpmhty3c4EzGH/riAeRCCmI\u002BmR0tUcREJcgGTRI7Q8CmAdOfwfKFKtZYlcCbC8QvPKKIQ\u002BFp8yR33Vdx9VkHAOp13CpJQa/SlfQzgPWKZVLPRCbASUFqG8AvitAoMdGuF9D042CMDEx4ZDmHL7H3EeWDNu5qF3mTglC\u002BRNiQo2XLtHidcDfR6xIOoLH0U27Sm2jE/HELZmTGYwBmB1fQe5pqVQC/aZoHw3BIqfvKC8DhxNAZQVY/wgoPjC/Ievr63uX/EOZS\u002BQkko1NQJppktDofAL30JUU\u002BcaoXjpM6iKmNEk9R317Sv4lsQ2Qh/LFYnEtnU67vzAG1OjDUwLKbG5u5jOZzAn9PQIkoRZinqTD2rVaNBavSyGgBiHJBzRNHbZF0lY7y9Mza1MzMzM0oVfGOny0vr7\u002BNUnm58XFxcz09LROPwaRGF6miQ8Sy\u002BvJZLKbPBaLDQSpx7KgCDoROaScJ2P37nw1Pj7\u002B4AwPApXfNjIy8oKYkZD\u002Baz09PY3Dw8P9JKn3aUAc60kNOxR/oOVPR0dHd2ZnZ6m5bMDfBL4aGGC4UsYAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-11-01T12:17:14.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Barcode.py",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\Barcode\\Barcode\\Barcode.py",
+              "RelativeDocumentMoniker": "Barcode\\Barcode.py",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\Barcode\\Barcode\\Barcode.py",
+              "RelativeToolTip": "Barcode\\Barcode.py",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAiwHIBAAAKAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARTSURBVDhPbVRNT1xlFH7u18ydb5iBYQIihGlpk0EqjSGQCiZdumgTky7qyg07Nja6YOufELGJaYwbjbgRMVgjQpVClbRQYCDTKR/DVMoAMwPMzP32nFtIjHqSk3Pvfd/zvM8553mvMDk56QiCwA5RFF1nkyQJ//x2/uw4Dmzbzp6cnNwdGhq6u729XXAT2GhRmJqacgKBgBMKhRAOh\u002BH3\u002B901Bvi353I5eDwe3lOj5/zq6urnY2Nj387Pz2fcJDI6VEQwGER9fb3rDEgM3EVmyev8ToeiubkZ8Xgc0WhUbW9vbxsYGLidSCQuupvPTPy/0mq1GgzDgGVZbomGaWP7oIK1PQ0Ps0f4dSWPld2ydGxK3f3XBt/p7e3tPMODzCCcrGmaG30\u002Bn1sWu9frhSzLEGQH3z/awVJ2D89f7OO4XEZIMjGYasXNW7dvBHye3YWFhQ0GdBlyOdxDLpffI5GI6wyuKAoMB5h6vIWrHTG8fbEBMCo4OS7hl/nHyP1VaCOc1xmMTZibm3Mo0amrqwO7qqooFArcJ5clt8CwbKR3i4iHVWR39/Hj3DJ\u002BW1yBZGn4\u002BIOb9uXW2NbGxsafhLchMyqz4tI4cs8Y6Nl\u002BBc9e7iN/eAzBMiHYhutHxZJ7oEhgcCxOF1sbK22toVIcyoU3ZZ7g\u002BTDYOLJ8JtO7uL\u002BUQzZPMjOqEKlM0aTIbtUgElg0EoTqobxaWsTReABK9wWRJ8kDqVarbmSG3Lfl7QNs7R0SgAZVMBH1S2gMKmgIe8l9aIrV4a1UBxojJDHjkED3gYP7cBnyNHkoHBmQTa9psLQaIirQ1RLHrcEUElHao0h8I6gUao1QgU\u002BbBkoPKaECYkTsiSHr7vT01GV4rj0PsVKgozXqw3vXkuhsSiPh\u002Bw4N4j00CF\u002BgwRxDuPIZlPJPQHWLWOqASXpmhty3c4EzGH/riAeRCCmI\u002BmR0tUcREJcgGTRI7Q8CmAdOfwfKFKtZYlcCbC8QvPKKIQ\u002BFp8yR33Vdx9VkHAOp13CpJQa/SlfQzgPWKZVLPRCbASUFqG8AvitAoMdGuF9D042CMDEx4ZDmHL7H3EeWDNu5qF3mTglC\u002BRNiQo2XLtHidcDfR6xIOoLH0U27Sm2jE/HELZmTGYwBmB1fQe5pqVQC/aZoHw3BIqfvKC8DhxNAZQVY/wgoPjC/Ievr63uX/EOZS\u002BQkko1NQJppktDofAL30JUU\u002BcaoXjpM6iKmNEk9R317Sv4lsQ2Qh/LFYnEtnU67vzAG1OjDUwLKbG5u5jOZzAn9PQIkoRZinqTD2rVaNBavSyGgBiHJBzRNHbZF0lY7y9Mza1MzMzM0oVfGOny0vr7\u002BNUnm58XFxcz09LROPwaRGF6miQ8Sy\u002BvJZLKbPBaLDQSpx7KgCDoROaScJ2P37nw1Pj7\u002B4AwPApXfNjIy8oKYkZD\u002Baz09PY3Dw8P9JKn3aUAc60kNOxR/oOVPR0dHd2ZnZ6m5bMDfBL4aGGC4UsYAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-11-01T12:11:25.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
